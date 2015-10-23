@@ -1,0 +1,3 @@
+Hello, my name is Codescu Radu. I love open-source because it's give you posibility to work with more people at the same project.
+You interact with them, with one simple scope to make your project rise.
+You are free to adapt, extend and customize, you aren't dependent on a single vendor's idea.
