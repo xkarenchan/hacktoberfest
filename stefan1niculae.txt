@@ -1,0 +1,5 @@
+Why I love open source
+    it's easier to learn from others' examples
+    it's social
+    peer review is good
+
